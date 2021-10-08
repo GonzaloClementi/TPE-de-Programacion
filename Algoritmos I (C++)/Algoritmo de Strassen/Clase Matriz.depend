@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1498260240 source:c:\users\usuario\documents\universidad\algoritmos 1\cursada 2017\clase matriz\main.cpp
+	<iostream>
+	"Matriz.h"
+
+1498260240 c:\users\usuario\documents\universidad\algoritmos 1\cursada 2017\clase matriz\matriz.h
+
+1498260394 source:c:\users\usuario\documents\universidad\algoritmos 1\cursada 2017\clase matriz\matriz.cpp
+	"Matriz.h"
+	<assert.h>
+	<iostream>
+
+1498599542 source:c:\users\juan\desktop\clase matriz\main.cpp
+	<iostream>
+	"Matriz.h"
+
+1498598424 c:\users\juan\desktop\clase matriz\matriz.h
+
+1498600002 source:c:\users\juan\desktop\clase matriz\matriz.cpp
+	"Matriz.h"
+	<assert.h>
+	<iostream>
+	<stdlib.h>
+
+1498662275 source:c:\users\gonzalo\desktop\ultima version\clase matriz\main.cpp
+	<iostream>
+	"Matriz.h"
+
+1498659723 c:\users\gonzalo\desktop\ultima version\clase matriz\matriz.h
+
+1498662015 source:c:\users\gonzalo\desktop\ultima version\clase matriz\matriz.cpp
+	"Matriz.h"
+	<assert.h>
+	<iostream>
+	<stdlib.h>
+
+1498707747 source:c:\users\usuario\desktop\tp ultima version inimputable\ultima version\clase matriz\matriz.cpp
+	"Matriz.h"
+	<assert.h>
+	<iostream>
+	<stdlib.h>
+
+1498707832 c:\users\usuario\desktop\tp ultima version inimputable\ultima version\clase matriz\matriz.h
+
+1498707814 source:c:\users\usuario\desktop\tp ultima version inimputable\ultima version\clase matriz\main.cpp
+	<iostream>
+	"Matriz.h"
+	"Strassen.h"
+
+1498705882 c:\users\usuario\desktop\tp ultima version inimputable\ultima version\clase matriz\strassen.h
+	"Matriz.h"
+
+1498707814 source:c:\users\usuario\desktop\tp ultima version inimputable\ultima version\tp etapa 2\main.cpp
+	<iostream>
+	"Matriz.h"
+	"Strassen.h"
+
+1498707832 c:\users\usuario\desktop\tp ultima version inimputable\ultima version\tp etapa 2\matriz.h
+
+1498705882 c:\users\usuario\desktop\tp ultima version inimputable\ultima version\tp etapa 2\strassen.h
+	"Matriz.h"
+
+1498707832 source:c:\users\usuario\desktop\tp ultima version inimputable\ultima version\tp etapa 2\matriz.cpp
+	"Matriz.h"
+	<assert.h>
+	<iostream>
+	<stdlib.h>
+
+1499308680 source:c:\users\usuario\desktop\tp etapa 2\main.cpp
+	<iostream>
+	"Matriz.h"
+	"Strassen.h"
+
+1499309592 c:\users\usuario\desktop\tp etapa 2\matriz.h
+
+1499309479 c:\users\usuario\desktop\tp etapa 2\strassen.h
+	"Matriz.h"
+
+1499309592 source:c:\users\usuario\desktop\tp etapa 2\matriz.cpp
+	"Matriz.h"
+	<assert.h>
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<time.h>
+

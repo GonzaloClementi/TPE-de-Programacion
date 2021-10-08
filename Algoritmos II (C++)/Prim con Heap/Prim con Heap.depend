@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1525994592 source:f:\prim con heap\main.cpp
+	"Grafo.h"
+	"Heap.h"
+	<iostream>
+	<queue>
+	<stack>
+	<set>
+	<vector>
+
+1525968901 f:\prim con heap\grafo.h
+	<list>
+	<map>
+	<iostream>
+	<cstdlib>
+
+1525994808 f:\prim con heap\heap.h
+	<iostream>
+	<vector>
+
+1526335731 source:c:\users\gonzalo\desktop\prim con heap\main.cpp
+	"Grafo.h"
+	"Heap.h"
+	<iostream>
+	<queue>
+	<stack>
+	<set>
+	<vector>
+
+1525968901 c:\users\gonzalo\desktop\prim con heap\grafo.h
+	<list>
+	<map>
+	<iostream>
+	<cstdlib>
+
+1526335682 c:\users\gonzalo\desktop\prim con heap\heap.h
+	<iostream>
+	<vector>
+
+1526364323 source:c:\users\usuario\desktop\prim con heap\main.cpp
+	"Grafo.h"
+	"Heap.h"
+	<iostream>
+	<limits>
+
+1525968901 c:\users\usuario\desktop\prim con heap\grafo.h
+	<list>
+	<map>
+	<iostream>
+	<cstdlib>
+
+1526356936 c:\users\usuario\desktop\prim con heap\heap.h
+	<iostream>
+	<vector>
+
